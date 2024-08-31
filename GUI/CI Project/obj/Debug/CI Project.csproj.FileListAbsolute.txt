@@ -1,0 +1,9 @@
+C:\Users\Helal\Desktop\CI project\CI Project\CI Project\bin\Debug\CI Project.exe
+C:\Users\Helal\Desktop\CI project\CI Project\CI Project\bin\Debug\CI Project.pdb
+C:\Users\Helal\Desktop\CI project\CI Project\CI Project\obj\Debug\CI Project.csproj.AssemblyReference.cache
+C:\Users\Helal\Desktop\CI project\CI Project\CI Project\obj\Debug\CI_Project.Form1.resources
+C:\Users\Helal\Desktop\CI project\CI Project\CI Project\obj\Debug\CI_Project.Properties.Resources.resources
+C:\Users\Helal\Desktop\CI project\CI Project\CI Project\obj\Debug\CI Project.csproj.GenerateResource.cache
+C:\Users\Helal\Desktop\CI project\CI Project\CI Project\obj\Debug\CI Project.csproj.CoreCompileInputs.cache
+C:\Users\Helal\Desktop\CI project\CI Project\CI Project\obj\Debug\CI Project.exe
+C:\Users\Helal\Desktop\CI project\CI Project\CI Project\obj\Debug\CI Project.pdb
